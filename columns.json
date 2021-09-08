@@ -1,8 +1,8 @@
 [
-  {"name":"stt","title":"STT","breakpoints":"xs sm","type":"number","style":{"width":80,"maxWidth":80}},
+  {"name":"stt","title":"STT"},
   {"name":"lastname","title":"Họ và"},
   {"name":"firstname","title":"Tên"},
-  {"name":"dob","title":"Ngày sinh","type":"date","breakpoints":"xs sm md","formatString":"DD MM YYYY"},
+  {"name":"dob","title":"Ngày sinh"},
   {"name":"pob","title":"Nơi sinh"},
   {"name":"gender","title":"Giới tính"},
   {"name":"race","title":"Dân tộc"},
