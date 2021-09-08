@@ -1,0 +1,8 @@
+[
+    {"stt":1,"lastname":"Dư Hoàng Mỹ","firstname":"An","dob":122365714987,"pob":"Long An","gender":"Nữ",
+    "race":"Kinh","point1":8.5,"point2":10.0,"cert1":"009059","cert2":"2478-CCTHCB-2020"},
+    {"stt":2,"lastname":"Phạm Anh Thùy","firstname":"An","dob":183768652128,"pob":"TP. Hồ Chí Minh","gender":"Nữ",
+    "race":"Kinh","point1":9.5,"point2":9.5,"cert1":"009060","cert2":"2479-CCTHCB-2020"},
+    {"stt":3,"lastname":"Trần Văn","firstname":"An","dob":414197000409,"pob":"Thanh Hoá","gender":"Nam",
+    "race":"Kinh","point1":9.0,"point2":10.0,"cert1":"009061","cert2":"2480-CCTHCB-2020"}
+]

@@ -1,0 +1,13 @@
+[
+  {"name":"stt","title":"STT","breakpoints":"xs sm","type":"number","style":{"width":80,"maxWidth":80}},
+  {"name":"lastname","title":"Họ và"},
+  {"name":"firstname","title":"Tên"},
+  {"name":"dob","title":"Ngày sinh","type":"date","breakpoints":"xs sm md","formatString":"DD MM YYYY"},
+  {"name":"pob","title":"Nơi sinh"},
+  {"name":"gender","title":"Giới tính"},
+  {"name":"race","title":"Dân tộc"},
+  {"name":"point1","title":"Điểm lý thuyết"},
+  {"name":"point2","title":"Điểm thực hành"},
+  {"name":"cert1","title":"Số hiệu chứng chỉ"},
+  {"name":"cert2","title":"Số vào sổ gốc cấp chứng chỉ"}
+]
